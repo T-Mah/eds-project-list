@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemsites/da-block-collection/
+    url: https://content.da.live/t-mah/eds-project-list
     type: markup
